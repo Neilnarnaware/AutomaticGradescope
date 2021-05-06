@@ -7,7 +7,7 @@ Utilizes Selenium framework in Python to automate 'Assignment grading' process o
 Use the package manager to install the lastest Selenium Driver from web.
 
 ```bash
-pip install foobar
+pip install Selenium
 ```
 
 ## Usage
